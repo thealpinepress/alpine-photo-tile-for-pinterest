@@ -1,3 +1,8 @@
+Officially Released on Wordpress Repository
+https://wordpress.org/plugins/alpine-photo-tile-for-pinterest
+
+Github repo is not maintained anymore. Got for official release.
+
 # Alpine PhotoTile for Pinterest
 * Contributors: theAlpinePress
 * Tags: photos, pinterest, pins, pinboard, photostream, pictures, widget, sidebar, gallery, lightbox, fancybox, colorbox, prettybox
